@@ -10,7 +10,7 @@ Start the installation
 cd ~
 sudo apt-get update
 sudo apt-get install git pip virtualenv
-git clone https://github.com/Zapata/bitshares-pricefeed.git
+git clone https://github.com/nbs-dex/nbs_pricefeed.git
 ```
 
 Create config.yml
