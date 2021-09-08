@@ -8,7 +8,9 @@ Start the installation
 
 ```
 cd ~
-pip3 install bitshares-pricefeed --user
+sudo apt-get update
+sudo apt-get install git pip virtualenv
+git clone https://github.com/Zapata/bitshares-pricefeed.git
 ```
 
 Create config.yml
