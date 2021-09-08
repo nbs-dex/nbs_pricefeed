@@ -1,4 +1,4 @@
-# Price Feed Script for BitShares
+# Price Feed Script for NBS
 
 ## Installation 
 
